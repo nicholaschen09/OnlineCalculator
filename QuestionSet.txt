@@ -1,0 +1,15 @@
+What is sin0?: ,0
+What is sin30?(in fraction): ,1/2
+What is sin45?(in fraction): √,2/2
+What is sin60?(in fraction): √,3/2
+What is sin90?: ,1
+What is cos0?: ,1
+What is cos30?(in fraction): √,3/2
+What is cos45?(in fraction): √,2/2
+What is cos60?(in fraction): ,1/2
+What is cos90?: ,0
+What is tan0?: ,0
+What is tan30?(in fraction): √,3/3
+What is tan45?: ,1
+What is tan60?: √,3
+What is tan90?: ,UND
